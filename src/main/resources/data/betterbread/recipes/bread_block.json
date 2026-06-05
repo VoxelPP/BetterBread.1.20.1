@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterbread:bread"
+    }
+  },
+  "result": {
+    "item": "betterbread:bread_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betterbread:block/bread_block"
+    }
+  }
+}

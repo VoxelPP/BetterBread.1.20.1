@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterbread:bread_block"
+    }
+  ],
+  "result": {
+    "item": "betterbread:bread",
+    "count": 9
+  }
+}
