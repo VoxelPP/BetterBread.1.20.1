@@ -12,7 +12,7 @@
 		"sources": "https://github.com/VoxelPP/BetterBread.1.20.1"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/betterbread/icon.png",
+	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
