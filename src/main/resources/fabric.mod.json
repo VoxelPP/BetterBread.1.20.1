@@ -3,13 +3,13 @@
 	"id": "betterbread",
 	"version": "0.5",
 	"name": "BetterBread",
-	"description": "Adds more bread",
+	"description": "Adds more bread: Toast,Bread,Burned Toast.",
 	"authors": [
 		"Voxel"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/VoxelPP/BetterBread.1.20.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/betterbread/icon.png",
